@@ -9926,7 +9926,7 @@
                 return Math.ceil(t / r)
             },
             Ee = "ChallengeRun_wrap__VsYlC";
-        var Ne = n.p + "static/media/duo-landing.6a714ad31b435b39fab7e66b68ac9ed0.svg",
+        var Ne = n.p + "bringback.duolingo.com-archive/static/media/duo-landing.6a714ad31b435b39fab7e66b68ac9ed0.svg",
             Pe = "Landing_wrap__ZSyC8",
             je = "Landing_wrap-dead__0Lui1",
             Ce = "Landing_duo__LEWZI",
@@ -9972,7 +9972,7 @@
                     })]
                 })
             };
-        var Ge = n.p + "static/media/timer.4497e5f13e0075d7ab06feb860425f99.svg",
+        var Ge = n.p + "bringback.duolingo.com-archive/static/media/timer.4497e5f13e0075d7ab06feb860425f99.svg",
             Ze = "RegisteredPage_wrap__gyxWD",
             Je = "RegisteredPage_profile-header__2PEl7",
             $e = "RegisteredPage_profile-title__1Io+3",
@@ -9988,9 +9988,9 @@
             ut = "Leaderboard_entry__9Mlak",
             ct = "Leaderboard_entry-self__0FqUq",
             dt = "Leaderboard_entry-counterpart__m88Z9";
-        var ft = n.p + "static/media/medal-bronze.061d2a77d0b94695f966a9fe14f6fe82.svg";
-        var pt = n.p + "static/media/medal-gold.f85fa80405eedc8467a9c7f263f93f96.svg";
-        var mt = n.p + "static/media/medal-silver.c9d5ed389525544519fed3e2eb759305.svg",
+        var ft = n.p + "bringback.duolingo.com-archive/static/media/medal-bronze.061d2a77d0b94695f966a9fe14f6fe82.svg";
+        var pt = n.p + "bringback.duolingo.com-archive/static/media/medal-gold.f85fa80405eedc8467a9c7f263f93f96.svg";
+        var mt = n.p + "bringback.duolingo.com-archive/static/media/medal-silver.c9d5ed389525544519fed3e2eb759305.svg",
             ht = {
                 wrap: "LeaderboardEntry_wrap__nNH2P",
                 "dead-wrap": "LeaderboardEntry_dead-wrap__Cw18-",
@@ -10483,8 +10483,8 @@
                     }))
                 }))))
             },
-            on = n.p + "static/media/flame.1ef589607e57e758b9fd.gif";
-        var ln = n.p + "static/media/streak-phoenix.330ab9e2d81d2a2b4868578331c3ade3.svg",
+            on = n.p + "bringback.duolingo.com-archive/static/media/flame.1ef589607e57e758b9fd.gif";
+        var ln = n.p + "bringback.duolingo.com-archive/static/media/streak-phoenix.330ab9e2d81d2a2b4868578331c3ade3.svg",
             sn = {
                 "language-row": "StreakProgress_language-row__7xCfj",
                 flag: "StreakProgress_flag__S5Rds",
@@ -10554,7 +10554,7 @@
                 })
             },
             fn = "data:image/png;base64,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",
-            pn = n.p + "static/media/xp-bolt-with-sparkles.ca02fb08038648e84d83.png",
+            pn = n.p + "bringback.duolingo.com-archive/static/media/xp-bolt-with-sparkles.ca02fb08038648e84d83.png",
             mn = {
                 "language-row": "XpProgress_language-row__aBti+",
                 flag: "XpProgress_flag__n-nE4",
@@ -10595,7 +10595,7 @@
             }
             return a
         }
-        var gn = n.p + "static/media/juicy-flag-sprite.87938207afff1598611ba626a8c4827c.svg",
+        var gn = n.p + "bringback.duolingo.com-archive/static/media/juicy-flag-sprite.87938207afff1598611ba626a8c4827c.svg",
             vn = function(t) {
                 var n = t.index,
                     r = t.itemHeight,
@@ -10635,8 +10635,8 @@
                     width: 82
                 }, o)) : null
             };
-        var _n = n.p + "static/media/math.0fdfab91e39567bedcbdc813b7ba6c8b.svg";
-        var wn = n.p + "static/media/music.fe54e9dcdc4e9b37d32429888bfc1880.svg",
+        var _n = n.p + "bringback.duolingo.com-archive/static/media/math.0fdfab91e39567bedcbdc813b7ba6c8b.svg";
+        var wn = n.p + "bringback.duolingo.com-archive/static/media/music.fe54e9dcdc4e9b37d32429888bfc1880.svg",
             xn = ["lang", "size", "style"],
             kn = function(e) {
                 var t = e.lang,
@@ -11357,26 +11357,26 @@
                     })]
                 })
             },
-            Gn = n.p + "static/media/de-3.a2013489aca46963e9cc.png";
-        var Zn = n.p + "static/media/dead-duo-v2.fd7d5cf87082a29722d39c0271c03c09.svg",
-            Jn = n.p + "static/media/en1.4b142be3823c0657a8b0.png",
-            $n = n.p + "static/media/en2.a82b90985bb408fadd53.png",
-            er = n.p + "static/media/en3.172f35d83e8ab3432a73.png",
-            tr = n.p + "static/media/en4.5ba28841125bd00728ab.png",
-            nr = n.p + "static/media/en5.c5ba44aad7385f4c7fea.png",
-            rr = n.p + "static/media/en6.9e751304ae81dcce0447.png",
-            ar = n.p + "static/media/en7.8ea4d5e44afa6eee2d0c.png",
-            or = n.p + "static/media/es.24958afe48864def4335.png",
-            ir = n.p + "static/media/fr-3.a6d00253bc7edf4df23f.png",
-            lr = n.p + "static/media/ja-3.5f2f42a9ed54b7a35c35.png",
-            sr = n.p + "static/media/pt-3.b953100e67ef209389ed.png";
-        var ur = n.p + "static/media/share.9e9ef4472d753672bb5b7ccec0a89a65.svg",
-            cr = n.p + "static/media/th-3.9149c142337fe537bf55.png";
-        var dr = n.p + "static/media/timer-red.7daeac91ef8f61c87a80ab0a781f1b16.svg",
-            fr = n.p + "static/media/zh-3.2d3bad9ea84153e2ad97.png";
-        var pr = n.p + "static/media/flag-co.e1d7b7dfc18fb85b467bbb796ce09883.svg";
-        var mr = n.p + "static/media/flag-gb.203b54ac5800700cc1295e961fd9808b.svg";
-        var hr = n.p + "static/media/flag-mx.88d7df7d7a616774d65ee868fa4fe68b.svg",
+            Gn = n.p + "bringback.duolingo.com-archive/static/media/de-3.a2013489aca46963e9cc.png";
+        var Zn = n.p + "bringback.duolingo.com-archive/static/media/dead-duo-v2.fd7d5cf87082a29722d39c0271c03c09.svg",
+            Jn = n.p + "bringback.duolingo.com-archive/static/media/en1.4b142be3823c0657a8b0.png",
+            $n = n.p + "bringback.duolingo.com-archive/static/media/en2.a82b90985bb408fadd53.png",
+            er = n.p + "bringback.duolingo.com-archive/static/media/en3.172f35d83e8ab3432a73.png",
+            tr = n.p + "bringback.duolingo.com-archive/static/media/en4.5ba28841125bd00728ab.png",
+            nr = n.p + "bringback.duolingo.com-archive/static/media/en5.c5ba44aad7385f4c7fea.png",
+            rr = n.p + "bringback.duolingo.com-archive/static/media/en6.9e751304ae81dcce0447.png",
+            ar = n.p + "bringback.duolingo.com-archive/static/media/en7.8ea4d5e44afa6eee2d0c.png",
+            or = n.p + "bringback.duolingo.com-archive/static/media/es.24958afe48864def4335.png",
+            ir = n.p + "bringback.duolingo.com-archive/static/media/fr-3.a6d00253bc7edf4df23f.png",
+            lr = n.p + "bringback.duolingo.com-archive/static/media/ja-3.5f2f42a9ed54b7a35c35.png",
+            sr = n.p + "bringback.duolingo.com-archive/static/media/pt-3.b953100e67ef209389ed.png";
+        var ur = n.p + "bringback.duolingo.com-archive/static/media/share.9e9ef4472d753672bb5b7ccec0a89a65.svg",
+            cr = n.p + "bringback.duolingo.com-archive/static/media/th-3.9149c142337fe537bf55.png";
+        var dr = n.p + "bringback.duolingo.com-archive/static/media/timer-red.7daeac91ef8f61c87a80ab0a781f1b16.svg",
+            fr = n.p + "bringback.duolingo.com-archive/static/media/zh-3.2d3bad9ea84153e2ad97.png";
+        var pr = n.p + "bringback.duolingo.com-archive/static/media/flag-co.e1d7b7dfc18fb85b467bbb796ce09883.svg";
+        var mr = n.p + "bringback.duolingo.com-archive/static/media/flag-gb.203b54ac5800700cc1295e961fd9808b.svg";
+        var hr = n.p + "bringback.duolingo.com-archive/static/media/flag-mx.88d7df7d7a616774d65ee868fa4fe68b.svg",
             gr = function(e) {
                 var t = e.countryId;
                 return (0, Xe.jsx)(yn, {
@@ -12246,7 +12246,7 @@
                     }), " to get started!"]
                 })
             };
-        var Lr = n.p + "static/media/duo-sleep.d121b31b9dc3f5f3b497de82cbf73e03.svg",
+        var Lr = n.p + "bringback.duolingo.com-archive/static/media/duo-sleep.d121b31b9dc3f5f3b497de82cbf73e03.svg",
             Dr = "NoAvailableChallengesPage_container__Cb8o1",
             Rr = "NoAvailableChallengesPage_duo-image__to+Wp",
             Ar = function() {
@@ -12287,11 +12287,11 @@
             wrap: "Input_wrap__7vbGY",
             "wrap-focus-indicator": "Input_wrap-focus-indicator__NymZ9 Input_wrap__7vbGY"
         };
-        var Ir = n.p + "static/media/input-error.432da104674a2ece4c56bfa63655442f.svg";
-        var Mr = n.p + "static/media/input-hide-password.a498fe12f4c42b9acc0605f06eb16779.svg";
-        var Fr = n.p + "static/media/input-info.e5653bfd168214c937c4456f83f9c74c.svg";
-        var Ur = n.p + "static/media/input-show-password.bdc3ed15704d831c74e7b95f898361b5.svg";
-        var Wr = n.p + "static/media/search.1eeefe6fded4ebd9d23871f3a39fa3d2.svg",
+        var Ir = n.p + "bringback.duolingo.com-archive/static/media/input-error.432da104674a2ece4c56bfa63655442f.svg";
+        var Mr = n.p + "bringback.duolingo.com-archive/static/media/input-hide-password.a498fe12f4c42b9acc0605f06eb16779.svg";
+        var Fr = n.p + "bringback.duolingo.com-archive/static/media/input-info.e5653bfd168214c937c4456f83f9c74c.svg";
+        var Ur = n.p + "bringback.duolingo.com-archive/static/media/input-show-password.bdc3ed15704d831c74e7b95f898361b5.svg";
+        var Wr = n.p + "bringback.duolingo.com-archive/static/media/search.1eeefe6fded4ebd9d23871f3a39fa3d2.svg",
             Hr = function(t) {
                 var n = t.className,
                     r = t.children,
@@ -12598,7 +12598,7 @@
                     })]
                 })
             };
-        var ha = n.p + "static/media/duolingo-logo.d9fa336880095690ce1ffe641070e47d.svg",
+        var ha = n.p + "bringback.duolingo.com-archive/static/media/duolingo-logo.d9fa336880095690ce1ffe641070e47d.svg",
             ga = "TopBar_wrap__egtcq",
             va = "TopBar_duolingo-icon-container__kBXAt",
             ba = "TopBar_duolingo-icon__Y3n41",
@@ -12626,7 +12626,7 @@
                     })]
                 })
             };
-        var xa = n.p + "static/media/duo-dizzy.ac4290a5b005350f6fd5342661ecd781.svg",
+        var xa = n.p + "bringback.duolingo.com-archive/static/media/duo-dizzy.ac4290a5b005350f6fd5342661ecd781.svg",
             ka = "UnrecoverableErrorPage_error-container__asi9f",
             Sa = "UnrecoverableErrorPage_error-illustration__83zw7",
             Ea = "UnrecoverableErrorPage_error-text__xi8OB",
