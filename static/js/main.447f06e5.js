@@ -11957,7 +11957,7 @@
             },
             Cr = {
                 en: {
-                    h1: "It's Duo or Die!",
+                    h1: "                         It's Duo or Die!",
                     p: "Let's work together to bring Duo back before it's too late! Do a lesson now.",
                     progressTitle: "Last chance",
                     leaderboardTitle: "Top 15 countries saving Duo",
