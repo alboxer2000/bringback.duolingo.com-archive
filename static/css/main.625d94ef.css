@@ -155,21 +155,21 @@ button, input, select, textarea {
     font-family: din-round;
     font-style: normal;
     font-weight: 500;
-    src: url(/static/media/DINNextRoundedLTPro-Regular.b391a1740855adb49e1b.woff2) format("woff2"), url(/static/media/DINNextRoundedLTPro-Regular.142b05522e64b71394b3.woff) format("woff")
+    src: url(bringback.duolingo.com-archive/static/media/DINNextRoundedLTPro-Regular.b391a1740855adb49e1b.woff2) format("woff2"), url(bringback.duolingo.com-archive/static/media/DINNextRoundedLTPro-Regular.142b05522e64b71394b3.woff) format("woff")
 }
 
 @font-face {
     font-family: din-round;
     font-style: normal;
     font-weight: 700;
-    src: url(/static/media/DINNextRoundedLTPro-Bold.c1ebba64155e95ff69b9.woff2) format("woff2"), url(/static/media/DINNextRoundedLTPro-Bold.27c9dc7d1d1eba1880eb.woff) format("woff")
+    src: url(bringback.duolingo.com-archive/static/media/DINNextRoundedLTPro-Bold.c1ebba64155e95ff69b9.woff2) format("woff2"), url(bringback.duolingo.com-archive/static/media/DINNextRoundedLTPro-Bold.27c9dc7d1d1eba1880eb.woff) format("woff")
 }
 
 @font-face {
     font-family: feather;
     font-style: normal;
     font-weight: 700;
-    src: url(/static/media/Feather-Bold.68d22534874c554b0c9e.woff2) format("woff2"), url(/static/media/Feather-Bold.eba2c5a1f2e80185b459.woff) format("woff")
+    src: url(bringback.duolingo.com-archive/static/media/Feather-Bold.68d22534874c554b0c9e.woff2) format("woff2"), url(bringback.duolingo.com-archive/static/media/Feather-Bold.eba2c5a1f2e80185b459.woff) format("woff")
 }
 
 .App_app__GuJBs {
